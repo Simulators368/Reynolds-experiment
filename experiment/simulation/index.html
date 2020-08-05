@@ -1,0 +1,272 @@
+<html>
+  <head>
+    <style>
+      #struct {
+        position: relative;
+        height: 600px;
+        width: 800px;
+        border: 2px black solid;
+
+        background-image: url("images/drawing-exp2.svg");
+        background-size: 100%;
+      }
+      .valve {
+        height: 30px;
+        width: 30px;
+        position: absolute;
+
+        border: none;
+        background-color: transparent;
+        background-image: url("images/valve.svg");
+        background-size: 100%;
+        transition-property: transform;
+        transition-duration: 1s;
+        outline: none;
+      }
+      .fillsfin {
+        position: absolute;
+        background-color: rgba(155, 207, 207, 0.815);
+        width: 12px;
+        height: 10px;
+      }
+      #motbut {
+        top: 500px;
+        left: 170px;
+      }
+      #gatebut {
+        top: 405px;
+        left: 620px;
+      }
+      #outlet {
+        top: 185px;
+        left: 610px;
+      }
+      #inlet {
+        top: 105px;
+        left: 150px;
+      }
+      #inlab {
+        opacity: 0;
+        top: 80;
+        left: 130;
+        background-color: darkgrey;
+      }
+      #outlab {
+        opacity: 0;
+        top: 160;
+        left: 570;
+        background-color: darkgrey;
+      }
+      #motlab {
+        top: 480;
+        left: 150;
+        background-color: darkgrey;
+      }
+      #gatelab {
+        opacity: 0;
+        top: 370;
+        left: 550;
+        background-color: darkgrey;
+      }
+      label {
+        position: absolute;
+      }
+      #labFlow {
+        top: 290px;
+        left: 710px;
+      }
+      #timer {
+        top: 50px;
+        left: 720px;
+        font-size: 28px;
+      }
+      .horz-water {
+        opacity: 0;
+        position: absolute;
+        background-image: url("images/water-horizintal.gif");
+      }
+      .fillsfin {
+        position: absolute;
+        background-color: rgba(155, 207, 207, 0.815);
+        width: 12px;
+        height: 10px;
+      }
+      .horz-water2 {
+        opacity: 0;
+        position: absolute;
+        background-image: url("images/water-horizintal2.gif");
+      }
+      #mot1 {
+        top: 505px;
+        left: 50px;
+
+        width: 80px;
+        height: 25px;
+        background-size: 120%;
+      }
+      #mot2 {
+        top: 470px;
+        left: 50px;
+        width: 15px;
+        height: 40px;
+        background-size: 380%;
+      }
+      #mot3 {
+        top: 430px;
+        left: 50px;
+        width: 15px;
+        height: 40px;
+        background-size: 380%;
+      }
+      #mot4 {
+        top: 390px;
+        left: 50px;
+
+        width: 15px;
+        height: 40px;
+        background-size: 380%;
+      }
+      #mot5 {
+        top: 360px;
+        left: 50px;
+        width: 15px;
+        height: 60px;
+        background-size: 380%;
+      }
+      #mot5 {
+        top: 320px;
+        left: 50px;
+        width: 15px;
+        height: 60px;
+        background-size: 380%;
+      }
+      #mot6 {
+        top: 280px;
+        left: 50px;
+        width: 15px;
+        height: 40px;
+        background-size: 380%;
+      }
+      #mot7 {
+        top: 240px;
+        left: 50px;
+        width: 15px;
+        height: 40px;
+        background-size: 380%;
+      }
+      #mot8 {
+        top: 200px;
+        left: 50px;
+        width: 15px;
+        height: 40px;
+        background-size: 380%;
+      }
+      #mot9 {
+        top: 200px;
+        left: 50px;
+        width: 80px;
+        height: 15px;
+        background-size: 70%;
+      }
+      #mot9 {
+        top: 200px;
+        left: 670px;
+        width: 40px;
+        height: 10px;
+        background-size: 50%;
+      }
+      #mot10 {
+        top: 200px;
+        left: 700px;
+        width: 10px;
+        height: 40px;
+        background-size: 50%;
+      }
+      #mot11 {
+        top: 240px;
+        left: 700px;
+        width: 10px;
+        height: 40px;
+        background-size: 50%;
+      }
+      #mot12 {
+        top: 280px;
+        left: 700px;
+        width: 10px;
+        height: 40px;
+        background-size: 50%;
+      }
+      #mot13 {
+        top: 415px;
+        left: 640px;
+        width: 40px;
+        height: 10px;
+        background-size: 50%;
+      }
+      #mot14 {
+        top: 415px;
+        left: 580px;
+        width: 40px;
+        height: 10px;
+        background-size: 50%;
+      }
+      #mot15 {
+        top: 415px;
+        left: 565px;
+        width: 10px;
+        height: 40px;
+        background-size: 50%;
+      }
+      .dtube {
+        position: absolute;
+        top: 190px;
+        left: 332px;
+        height: 22px;
+        width: 251px;
+      }
+      #lin {
+        opacity: 0;
+        background-image: url("images/laminar.svg");
+        background-size: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="struct"></div>
+
+    <label id="timer"></label>
+    <label id="labFlow"></label>
+
+    <div id="mot1" class="horz-water"></div>
+    <div id="mot2" class="horz-water"></div>
+    <div id="mot3" class="horz-water"></div>
+    <div id="mot4" class="horz-water"></div>
+    <div id="mot5" class="horz-water"></div>
+    <div id="mot6" class="horz-water"></div>
+    <div id="mot7" class="horz-water"></div>
+    <div id="mot8" class="horz-water"></div>
+    <div id="mot9" class="horz-water"></div>
+
+    <div id="mot10" class="horz-water"></div>
+    <div id="mot11" class="horz-water"></div>
+    <div id="mot12" class="horz-water"></div>
+    <div id="mot13" class="horz-water"></div>
+    <div id="mot14" class="horz-water"></div>
+    <div id="mot15" class="horz-water"></div>
+
+    <div id="lin" class="dtube"></div>
+    <div id="fillfinal" style="top: 425px; left: 775px;" class="fillsfin"></div>
+
+    <button id="outlet" class="valve" onclick="clickedValve()"></button>
+    <button id="inlet" class="valve" onclick="calDye()"></button>
+    <button id="gatebut" class="valve" onclick="clickedgate()"></button>
+    <button id="motbut" class="valve" onclick="clickedMot()"></button>
+    <label id="motlab">push the motor button to start</label>
+    <label id="inlab">turn the valve for dye</label>
+    <label id="gatelab">turn the gate valve off</label>
+    <label id="outlab"
+      >turn the outlet valve multiple times to set the flow rate</label
+    >
+    <script src="js/exp2.js"></script>
+  </body>
+</html>
