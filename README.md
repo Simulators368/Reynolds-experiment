@@ -60,7 +60,6 @@ IIT BHU
 :--|:--|
 <b> Institute | <b> Sharda group of institutions
 <b> Email id|     <b> tss.senthil.hcst@sgei.org
-<b> Department | Name of the department
 
 #### Contributors List
 
