@@ -90,7 +90,8 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Switch on the motor <br> next line <br> next line | Click on the ‘motor button  '  | to start the flow of water through the system.
+2.| Student will allow the movement of dye<br> from dye tank | open the ‘dye tank valve  '  | to start the flow of dye through water, through delivery pipe.
+3.| Student will regulate the water(with dye) flow<br> by rotating the valve | Click on the ‘outlet valve to rotate it '	  | To adjust/set the flow rate of water.
+4.| Student will observe the flow pattern of dye through middle of water flowing through delivery pipe | Stright line of dye will appear, in the middle of the water flow for laminar flow(Reynolds no. 0 to 2000)<br> a disturbed flow of dye will appear for transient flow (Reynold's no. 2000 to 4000)<br> mixed flow of dye with water will appear for turbulent flow( Reynolds no. >4000)| To observe the flow pattern .
+5.| Student will measure the height in manometer <br> by collecting the water<br> in collecting tank| Click on the ‘gate valve <br>to close it '  | To calculate the flow rate.
