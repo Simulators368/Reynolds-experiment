@@ -6,7 +6,8 @@ Experiment 1: Name of the Experiment
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+This experiment involves water that will circulate from the reservoir by the help of pump through the delivery pipe, conduit and piping arrangement, collecting tank then to reservoir again. Between the conduit in the pipe there are piezometers attached at equal distance. 
+The objective of the experiment is to recall the Bernoulli's theorem and verify that. Hence by the help of piezometers user will get the pressure head and velocity head depends on the flow rate of water flowing through pipe. Datum depends on the location of pipe ( height from reference). All can be understood by the user by the help of this experiment and verification of Reynolds theorem can be made.
 
 ### 2. Story:
 
