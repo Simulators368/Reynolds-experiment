@@ -65,17 +65,20 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| LO1 | Recalling the concept of Reynold's no. | What are the unit(s) of the Reynolds number? <br><b> a)	It is unitless</b><br> b)	kg•s <br> c)	kg/s<br> d)	kg/m3<br>
+2.| LO3| e)	Analyse the flow pattern | Which type of fluid flow is smooth, and predictable? <br>a)	Turbulent<br>b)	Viscous<br> <b>c)	Laminar</b> <br> <b>d)	Inertial</b> <br> 
+3.| LO1, LO2 and LO3 | Recalling, understanding and analysing the flow pattern on the basis of Reynolds no. | What value of Reynolds number indicates laminar flow?  <br> a)	2000 <br>b)	5000<br>c)	7000<br>d)	10000<br> 
+4.| LO1 aand LO2 | Recalling and understanding the concept of Reynold's no. | The ratio of inertia force to viscous force is known as <br> a)	Grashof number<br><b>b)	Reynolds number<br>c)	Fourier number</b><br>d)	Nusselt number<br> 
+5.| LO1 and LO2 | Recalling the concept of Reynold's no. | In Reynolds number (ρvd) / μ, the letter μ denotes  <br> a)	kinematic viscosity<br>b)	absolute viscosity<br>c)	coefficient of friction<br>d)	none of the above<br> 
+6.| LO1, LO2 and LO3 | Recalling, understanding and analysing the flow pattern on the basis of Reynolds no. | Velocity within the given fields would be similar in magnitude, direction and turbulence pattern when <br>a)	Nusselt number are different<br>b)	Nusselt number are same<br>c)	Reynolds number are different<br><b>d)	Reynolds number are same</b><br>
+7.| LO1, LO2 and LO3| e)	 Recalling, understanding and analysing the flow pattern on the basis of Reynolds no. | A pipe has a diameter of 0.2 m in which a fluid flows with a velocity of 0.3 m3/s. Determine whether the flow is laminar or turbulent calculating the Reynolds number. Assume kinematic viscosity = 0.5 × 10-4 m2 /s. <br>a)	the flow is laminar having Reynolds number 1200<br>b)	the flow is turbulent having Reynolds number 2100<br>c)	the flow is laminar having Reynolds number 2200<br>d)	the flow is neither laminar nor turbulent <br> 
+8.| LO3 | Analyse the velocity profile| What is the appropriate definition of streamflow?   <br>a)	The way in which water moves within a stream channel<br>b)	The direction of the flow of the water within a stream<br>c)	The velocity of the water within a stream<br>d)	The amount of water within a stream<br> 
+9.| LO3 | Analyse the flow pattern| 4.	Which of the following is NOT a characteristic of a stream with laminar streamflow?  <br> a)	Quiet<br><b>b)	Water that moves quickly</b><br>c)	Water that flows in a straight line<br>d)	No visible physical barriers<br>
+10.| LO3 | Analyse the flow pattern| 4.	5.	The turbulent flow has   <br>a)	streakline motion<br>b)	parabolic velocity distribution<br>c)	random orientation of fluid particles<br>d)	small slope of velocity profile at the wall<br>
 
-
-You can add more question. All questions may not be as MCQ
-Please add the correct answer as well.
-or type the correct answer below the question.
 
  <br>
 
- <u> You can add additional TASKS & Assessment Questions <u>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -90,8 +93,8 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Switch on the motor <br> next line <br> next line | Click on the ‘motor button  '  | to start the flow of water through the system.
+1.| Switch on the motor | Click on the ‘motor button  '  | to start the flow of water through the system.
 2.| Student will allow the movement of dye<br> from dye tank | open the ‘dye tank valve  '  | to start the flow of dye through water, through delivery pipe.
 3.| Student will regulate the water(with dye) flow<br> by rotating the valve | Click on the ‘outlet valve to rotate it '	  | To adjust/set the flow rate of water.
-4.| Student will observe the flow pattern of dye through middle of water flowing through delivery pipe | Stright line of dye will appear, in the middle of the water flow for laminar flow(Reynolds no. 0 to 2000)<br> a disturbed flow of dye will appear for transient flow (Reynold's no. 2000 to 4000)<br> mixed flow of dye with water will appear for turbulent flow( Reynolds no. >4000)| To observe the flow pattern .
+4.| Student will observe the flow pattern of dye flowing through middle of water through delivery pipe | Stright line of dye will appear, in the middle of the water flow for laminar flow(Reynolds no. 0 to 2000)<br> a disturbed flow of dye will appear for transient flow (Reynold's no. 2000 to 4000)<br> mixed flow of dye with water will appear for turbulent flow( Reynolds no. >4000)| To observe the flow pattern .
 5.| Student will measure the height in manometer <br> by collecting the water<br> in collecting tank| Click on the ‘gate valve <br>to close it '  | To calculate the flow rate.
