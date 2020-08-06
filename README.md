@@ -5,7 +5,7 @@
 <b>Discipline | <b>CHEMICAL ENGINEERING
 :--|:--|
 <b> Lab | <b> Chemical engineering fluid mechanics lab
-<b> Experiment|     <b> Experiment number 11. Determine the Reynolds number and study different types of flow.
+<b> Experiment|     <b> Experiment number 2. Determine the Reynolds number and study different types of flow.
 
 <h5> About the Lab (Objective) : </h5>
 
@@ -25,7 +25,28 @@ KCH 351
 
 <h5> Universities Mapped : </h5>
 
-Abdul Kalam Technical University
+Nirma UNIVERSITY
+RGIPT RAEBARELLY
+HBTU KANPUR
+GGS IP UNIVERSITY
+UPES DEHRADUN
+AMITY
+GALGOTIAS
+GD GOENKA UNIVERSITY
+PARUL UNIVERSITY
+ICET MUMBAI
+MUMBAI UNIVERSITY
+CCS UNIVERSITY
+IIT DELHI
+IIT ROORKEE
+IIT KANPUR
+IIT GANDHINAGAR
+IIT ROPAR
+IIT BOMBAY
+IIT MADRAS
+IIT Kharagpur
+IIT GUWAHATI
+IIT BHU
 
 <b>Name of Developer | <b> Neha Sharma
 :--|:--|
@@ -53,4 +74,4 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 
 
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+
