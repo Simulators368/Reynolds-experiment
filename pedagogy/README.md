@@ -6,12 +6,12 @@
 <b> Experiment Chemical Engineering Fluid Mechanics  Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Chemical Engineering 
+Discipline | <b>Chemical Engineering 
 :--|:--|
-<b> Lab | <b> Chemical Engineering Fluid Mechanics Lab
-<b> Experiment|     <b> 2. Determine the Reynolds Number and study Different Types of Flow.
+ Lab |  Chemical Engineering Fluid Mechanics Lab
+ Experiment|      2. Determine the Reynolds Number and study Different Types of Flow.
 
-
+</b>
 <h4> [1. Focus Area](#LO)
 <h4> [2. Learning Objectives ](#LO)
 <h4> [3. Instructional Strategy](#IS)
