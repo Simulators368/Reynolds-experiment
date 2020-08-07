@@ -22,6 +22,9 @@ Discipline | <b>Chemical Engineering
 <a name="LO"></a>
 #### 1. Focus Area : Reinforce theoretical concepts and Data Analysis.
 
+         By this experiment we want student to understand the flow patterns (i.e laminar, Transient, and Turbulent) with Change of Reynolds number. By doing this experiment they will themselve analyse the flow patterns change with increase or decrease of flow rate. Also student will be able to understand the significance of Reynolds number by performing experiment.
+         
+         
 #### 2. Learning Objectives and Cognitive Level
 
 <h5>Description:</h5>
@@ -66,8 +69,14 @@ Various changes in flow rate are possible so that user may completely learn the 
 
 <h5>CALCULATIONS:</h5>
 Student have to make calculation on the basis of data obtained from the experiment.
-
-
+<br>
+<h5> Reynold's number</h5>
+Re= 	ρ*v*d/μ <br><br>
+where,<br>
+	ρ= density of fluid <br>
+ μ= dynamic viscosity <br>
+ d= diameter of pipe <br>
+ v= velocity of fluid <br>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
