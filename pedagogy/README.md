@@ -58,13 +58,13 @@ These experiments are designed such that if students perform the given task comp
 ###### Name of Instructional Strategy  :    <u>  Expository
 ###### Assessment Method: Submmative
 
-DESCRIPTION
+<h5>DESCRIPTION:</h5>
 Step by step instructions are provided at each level in the simulator to make it more user friendly.
 
-SCOPE
+<h5>SCOPE:</h5>
 Various changes in flow rate are possible so that user may completely learn the objective.
 
-CALCULATIONS
+<h5>CALCULATIONS:</h5>
 Student have to make calculation on the basis of data obtained from the experiment.
 
 
