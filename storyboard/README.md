@@ -33,8 +33,16 @@ Describe the pitfalls here: (guide : (while traversing or while solving challeng
 Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+<h5> Reynold's number:</h5>
+Re= 	(ρ*v*d)/μ <br><br>
+Flow Rate: Q= (Area*Height)/time<br><br>
+where,
+<br>
+ ρ= density of fluid <br>
+ μ= dynamic viscosity <br>
+ d= diameter of pipe <br>
+ v= velocity of fluid <br>
+<br/>
 
 
 ### 3. Flowchart 4
