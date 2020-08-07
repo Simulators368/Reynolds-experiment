@@ -40,11 +40,11 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <br>
 
 <h5>Examine:</h5>
-In the experiment for bernoulli's theorem after performing the whole experiment and collecting data the student needs to to plot a graph with the calculated values. And after the graph is plotted the student can analyse the the actual beauty of bernoulli's theorem.
+The students need to perform the experiment for or different valve openings. And according to the the opening of the valve flow rate will vary e at each run and the differences can be observed and also proved by the the calculations of Reynolds number after collecting the data.
 <br>
 
 <h5>Conclude:</h5>
-These experiments are designed such that if students perform the given task completely e then he or she will be able to understand the whole concept of the bernoulli's theorem and Reynolds number via visualising and data analysis.
+These experiments are designed such that if students perform the given task completely e then he or she will be able to understand the whole concept of the Reynolds number via visualising and data analysis.
 
 <br/>
 <div align="right">
