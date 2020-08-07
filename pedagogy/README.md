@@ -71,9 +71,10 @@ Various changes in flow rate are possible so that user may completely learn the 
 Student have to make calculation on the basis of data obtained from the experiment.
 <br>
 <h5> Reynold's number</h5>
-Re= 	ρ*v*d/μ <br><br>
-where,<br>
-	ρ= density of fluid <br>
+Re= 	(ρ*v*d)/μ <br><br>
+Flow Rate: Q= (Area*Height)/time<br><br>
+where,
+<br>ρ= density of fluid <br>
  μ= dynamic viscosity <br>
  d= diameter of pipe <br>
  v= velocity of fluid <br>
