@@ -21,6 +21,7 @@ Discipline | <b>Chemical Engineering
 
 <a name="LO"></a>
 #### 1. Focus Area : Reinforce theoretical concepts and Data Analysis.
+By this experiment we want students to understand the concep t of mechanical energy balance existing in the fluid flows. By doing this experiment they would themselves analyze that if the value of one form of energy is reduced by any means then the value for other form increases. And this is always true for ideal fluid for different flow rates.
 
 #### 2. Learning Objectives and Cognitive Level
 
@@ -32,7 +33,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 2.| User will be able to: <br>understand the Reynolds Number and its significance. | Understanding  | Understand
 3.| User will be able to: <br> analyse the type of flow according to the Reynolds number calculated. | Analysing| Analyse
 
-
+These experiments are designed such that if students perform the given task completely e then he or she will be able to understand the whole concept of the bernoulli's theorem and Reynolds number via visualising and data analysis
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
