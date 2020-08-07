@@ -24,15 +24,28 @@ Discipline | <b>Chemical Engineering
 
 #### 2. Learning Objectives and Cognitive Level
 
+<h5>Description:</h5>
 Here we have identified three learning objectives. As this experiment is based on the universal laws for the subjects therefore it includes remembering of the theorem and facts and then operation or execution the experiment. Further during the operation student will be able to understand the theorem and further based on the observations students will be able to to analyse and reach the outcome.
+<br>
+
+<h5>Method:</h5>
+To achieve attainment of all the objectives the experiment is designed for different sets of flow rates so that students may learn through performing.
+<br>
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to: <br>recall the Reynolds number | Remembering | recall
 2.| User will be able to: <br>understand the Reynolds Number and its significance. | Understanding  | Understand
 3.| User will be able to: <br> analyse the type of flow according to the Reynolds number calculated. | Analysing| Analyse
+<br>
 
-These experiments are designed such that if students perform the given task completely e then he or she will be able to understand the whole concept of the bernoulli's theorem and Reynolds number via visualising and data analysis
+<h5>Examine:</h5>
+In the experiment for bernoulli's theorem after performing the whole experiment and collecting data the student needs to to plot a graph with the calculated values. And after the graph is plotted the student can analyse the the actual beauty of bernoulli's theorem.
+<br>
+
+<h5>Conclude:</h5>
+These experiments are designed such that if students perform the given task completely e then he or she will be able to understand the whole concept of the bernoulli's theorem and Reynolds number via visualising and data analysis.
+
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
