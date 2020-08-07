@@ -22,7 +22,7 @@ Discipline | <b>Chemical Engineering
 <a name="LO"></a>
 #### 1. Focus Area : Reinforce theoretical concepts and Data Analysis.
 
-         By this experiment we want student to understand the flow patterns (i.e laminar, Transient, and Turbulent) with Change of Reynolds number. By doing this experiment they will themselve analyse the flow patterns change with increase or decrease of flow rate. Also student will be able to understand the significance of Reynolds number by performing experiment.
+   By this experiment we want student to understand the flow patterns (i.e laminar, Transient, and Turbulent) with Change of Reynolds number. By doing this experiment they will themselve analyse the flow patterns change with increase or decrease of flow rate. Also student will be able to understand the significance of Reynolds number by performing experiment.
          
          
 #### 2. Learning Objectives and Cognitive Level
