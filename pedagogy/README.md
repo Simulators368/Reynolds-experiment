@@ -21,7 +21,6 @@ Discipline | <b>Chemical Engineering
 
 <a name="LO"></a>
 #### 1. Focus Area : Reinforce theoretical concepts and Data Analysis.
-By this experiment we want students to understand the concep t of mechanical energy balance existing in the fluid flows. By doing this experiment they would themselves analyze that if the value of one form of energy is reduced by any means then the value for other form increases. And this is always true for ideal fluid for different flow rates.
 
 #### 2. Learning Objectives and Cognitive Level
 
