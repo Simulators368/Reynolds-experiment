@@ -11,7 +11,10 @@ The basic objective of this experiment is to recall Reynolds number and understa
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+
+First user will switch on the motor. Then water will start to flow from reservoir to the water tank then to the delivery pipe. Then user will open the valve at dye tank side to allow dye to flow through delivery pipe. 
+After this user will regulate the flow rate by using outlet valve. Now user will close the gate valve, fluid will start filling in collecting tank. After 50 seconds final height will appear on the simulator and this height will be recorded by the user for calculating flow rate of water. As the flow rate of stream changes the Reynolds number will change and accordingly flow patterns will change from Laminar to transient to turbulent flow. User can understand change of flow pattern by the help of calculation also i.e by doing calculation for Reynolds number. For laminar flow ( Reynolds number vary from 0 to 2000).
+for transient flow (Reynolds number is 2000 to 4000), and for turbulent flow (Reynolds number greater than 4000).
 
 #### 2.1 Set the Visual Stage Description:
 In the simulator user will be able to see the virtual prototype of experimental set up resembling the actual experimental set up that is present in real time labs.
@@ -83,5 +86,6 @@ link to flow chart Here : https://github.com/Simulators368/Reynolds-experiment/b
  (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
 
 ### 5. Storyboard :
-Storyboard: <a href="https://github.com/Simulators368/Reynolds-experiment/tree/master/storyboard/storyboard"> [here]</a>
-Link to storybaord (.gif file ) here :https://github.com/Simulators368/Reynolds-experiment/tree/master/storyboard/storyboard
+Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
+Link to storybaord (.gif file ) here :
+(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
