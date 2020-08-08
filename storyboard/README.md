@@ -2,18 +2,21 @@
 
 Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
-Experiment 1: Name of the Experiment
+Experiment 1: Determine the Reynolds Number and study Different Types of Flow.
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+This experiment contains fresh water in a tank and dye in other small tank placed above water tank. Water and dye will flow through delivery pipe to the reservoir via collecting tank. 
+The basic objective of this experiment is to recall Reynolds number and understand the significance of Reynolds number. Also student will be able to visualize different flow patterns with Change in flow rate stream flowing through delivery pipe.
 
 ### 2. Story:
 
 Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+In the simulator user will be able to see the virtual prototype of experimental set up resembling the actual experimental set up that is present in real time labs.
+In the set up there is large volume water tank placed on stands at some distance above the ground. Above the water tank there is a small dye tank containing dye ( it can be any coloured dye) with some properties required for experiment. At bottom side of tank there is a delivery pipe connected having diameter of 0.01 m. Also from the dye tank, a pipe of very less diameter is connected to the middle of the delivery pipe at water tank side. Between dye tank and connected pipe there is a valve for controlling flow of dye. 
+Then at the end of delivery pipe, there is outlet valve that is used to regulate the flow. Then there is a collecting tank having 100cm2 area in which water drops from the delivery pipe and at bottom side of this tank there is a gate valve and then a reservoir is present below that collecting to tank.
 
 #### 2.2 Set User Objectives & Goals:
 Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
