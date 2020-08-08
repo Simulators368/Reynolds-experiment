@@ -36,10 +36,23 @@ Then at the end of delivery pipe, there is outlet valve that is used to regulate
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+
+1) Pipe has a diameter of 0.2 m in which a fluid flows with a velocity of 0.3 m3/s. Determine whether the flow is laminar or turbulent calculating the Reynolds number. Assume kinematic viscosity = 0.5 × 10-4 m2 /s. (LO1, LO2 and LO3) <br>
+a) <b> the flow is laminar having Reynolds number 1200 <\b> <br>
+b)	the flow is turbulent having Reynolds number 2100 <br>
+c)	the flow is laminar having Reynolds number 2200<br>
+d)	the flow is neither laminar nor turbulent<br>
+ 
+2) Which of the following is NOT a characteristic of a stream with laminar streamflow? (LO3)<br>
+a)	Quiet 
+b) <b>Water that moves quickly </b>
+c)	Water that flows in a straight line
+d)	No visible physical barriers. 
+
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+1) If user doen't on dye valve and allow only water to flow then doesn't able to visualise any flow pattern. 
+2) If user doesn't open gate valve after taking reading for calculating flow rate then the collection tank will overflow.
 
 ##### 2.6 Conclusion:
 There were two assessments i.e pre-assessment and post-assessment having total 10 questions of different difficulty level. Right answered questions will get 1 mark while wrong answered question will get 0 mark. Hence after answering particular set of question student will get score on the basis of answers given. 
