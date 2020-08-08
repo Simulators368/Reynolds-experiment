@@ -19,11 +19,20 @@ In the set up there is large volume water tank placed on stands at some distance
 Then at the end of delivery pipe, there is outlet valve that is used to regulate the flow. Then there is a collecting tank having 100cm2 area in which water drops from the delivery pipe and at bottom side of this tank there is a gate valve and then a reservoir is present below that collecting to tank.
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+1) By this experiment student will be able to recall the Reynolds number.
+2) This experiment will describe the application of Reynolds number.
+3) Student will be able to understand the calculation of flow rate by measuring height in collecting tank.
+4) Student will be able to recall  the basic properties of Laminar flow, Transient flow, and Turbulent flow.
+5) Student will be able to analyse different flow patterns at different flow rates.
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1) In the experimental set up, there is a centrifugal pump,  outlet valve and gate valve. This all will be recognised by user as each have naming in the set up.
+2) User will start the pump by clicking on the motor button.
+3) Then user will on the valve present at dye tank side. Also after that by the help of outlet valve user will regulate the flow rate of water through the delivery pipe.
+4) Then by closing the gate valve student will be able to collect water in the collecting tank for measuring height by which student will understand the calculation of flow rate and will calculate the same.
+5) As students will change the flow rate then they will be able to visualise different flow patterns.
+6) Student will be able to analyse flow regimes with change in flow rate that will also change Reynolds number.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
@@ -33,7 +42,8 @@ Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+There were two assessments i.e pre-assessment and post-assessment having total 10 questions of different difficulty level. Right answered questions will get 1 mark while wrong answered question will get 0 mark. Hence after answering particular set of question student will get score on the basis of answers given. 
+User will take approximate 7-10 minutes for understanding the procedure. Then for generating data by the help of simulator will take 3-5 minutes. In this along with generation of data student will be able to visualise different flow patterns also. After onwards for calculating result will take 5 minutes. Hence total time taken for doing experiment will be approximately 20 minutes.
 
 ##### 2.7 Equations/formulas: NA
 <h5> Reynold's number:</h5>
