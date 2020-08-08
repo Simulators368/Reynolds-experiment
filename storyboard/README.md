@@ -13,7 +13,7 @@ The basic objective of this experiment is to recall Reynolds number and understa
 
 
 First user will switch on the motor. Then water will start to flow from reservoir to the water tank then to the delivery pipe. Then user will open the valve at dye tank side to allow dye to flow through delivery pipe. 
-After this user will regulate the flow rate by using outlet valve. Now user will close the gate valve, fluid will start filling in collecting tank. After 50 seconds final height will appear on the simulator and this height will be recorded by the user for calculating flow rate of water. As the flow rate of stream changes the Reynolds number will change and accordingly flow patterns will change from Laminar to transient to turbulent flow. User can understand change of flow pattern by the help of calculation also i.e by doing calculation for Reynolds number. For laminar flow ( Reynolds number vary from 0 to 2000).
+After this user will regulate the flow rate by using outlet valve. Now user will close the gate valve, fluid will start filling in collecting tank. After 50 seconds final height will appear on the simulator and this height will be recorded by the user for calculating flow rate of water. As the flow rate of stream changes the Reynolds number will change and accordingly flow patterns will change from Laminar to transient to turbulent flow. User can understand change of flow pattern by the help of calculation also i.e by doing calculation for Reynolds number. For laminar flow ( Reynolds number vary from 0 to 2000),
 for transient flow (Reynolds number is 2000 to 4000), and for turbulent flow (Reynolds number greater than 4000).
 
 #### 2.1 Set the Visual Stage Description:
