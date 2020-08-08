@@ -37,17 +37,12 @@ To achieve attainment of all the objectives the experiment is designed for diffe
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>recall the Reynolds number | Remembering | recall
-2.| User will be able to: <br>understand the Reynolds Number and its significance. | Understanding  | Understand
-3.| User will be able to: <br> analyse the type of flow according to the Reynolds number calculated. | Analysing| Analyse
+1.| User will be able to: <br>recall the Reynolds number | Remember | recall
+2.| User will be able to: <br>understand the Reynolds Number and its significance. | Understand | Understand
+3.| User will be able to: <br> analyse the type of flow according to the Reynolds number calculated. | Analyse| Analyse
 <br>
 
-<h5>Examine:</h5>
-The students need to perform the experiment for or different valve openings. And according to the the opening of the valve flow rate will vary e at each run and the differences can be observed and also proved by the the calculations of Reynolds number after collecting the data.
-<br>
 
-<h5>Conclude:</h5>
-These experiments are designed such that if students perform the given task completely e then he or she will be able to understand the whole concept of the Reynolds number via visualising and data analysis.
 
 <br/>
 <div align="right">
@@ -67,17 +62,7 @@ Step by step instructions are provided at each level in the simulator to make it
 <h5>SCOPE:</h5>
 Various changes in flow rate are possible so that user may completely learn the objective.
 
-<h5>CALCULATIONS:</h5>
-Student have to make calculation on the basis of data obtained from the experiment.
-<br>
-<h5> Reynold's number</h5>
-Re= 	(ρ*v*d)/μ <br><br>
-Flow Rate: Q= (Area*Height)/time<br><br>
-where,
-<br>ρ= density of fluid <br>
- μ= dynamic viscosity <br>
- d= diameter of pipe <br>
- v= velocity of fluid <br>
+
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
