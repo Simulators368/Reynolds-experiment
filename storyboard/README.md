@@ -86,5 +86,10 @@ link to flow chart Here : https://github.com/Simulators368/Reynolds-experiment/b
  (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
 
 ### 5. Storyboard :
-Storyboard: <a href="https://github.com/Simulators368/Reynolds-experiment/tree/master/storyboard/storyboard"> [here]</a>
+Storyboard:
+<img src="images/Reyn-1"/><br><br><br><br>
+<img src="images/Reyn-2"/><br><br><br><br>
+<img src="images/Reyn-3"/><br><br><br><br>
+<img src="images/Reyn-4"/><br><br><br><br>
+<img src="images/Reyn-6"/><br><br><br><br>
 Link to storybaord (.gif file ) here :https://github.com/Simulators368/Reynolds-experiment/tree/master/storyboard/storyboard
