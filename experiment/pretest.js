@@ -122,7 +122,27 @@
       correctAnswer: "a"
     },
     
-     
+    {
+      question: "The ratio of inertia force to viscous force is known as ?",
+      answers: {
+        a: "Grashof number",
+        b: "Reynolds number",
+        c: "Fourier Number",
+        d: "Nusselt Number"
+      },
+      correctAnswer: "b"
+    }, 
+    
+    {
+      question: "In Reynolds number (ρvd) / μ, the letter μ denotes?",
+      answers: {
+        a: "Kinematic viscosity",
+        b: "absolute viscosity",
+        c: "coefficient of friction",
+        d: "none of the above"
+      },
+      correctAnswer: "b"
+    },
     ///// this line
 
 
