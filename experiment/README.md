@@ -36,6 +36,9 @@ Sr.No. | Reynolds Number | Flow Pattern
 •	Regulating valve at the outlet of glass tube and at inlet of dye injector<br>
 •	A stopwatch<br>
 
+<h5>Experimental Set-up</h5>
+<img src="images/reynolds-apparatus.jpg" />
+
 ### Procedure
 Test Procedure of Reynolds experiment is as follows:<br>
 •	Start the Motor by clicking on the motor button.<br>
