@@ -90,27 +90,40 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "What are the unit(s) of the Reynolds number?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "It is unitless",                  ///// Write the option 1 inside double quotes
+        b: "Kg.s",                  ///// Write the option 2 inside double quotes
+        c: "Kg/s",                  ///// Write the option 3 inside double quotes
+        d: "Kg/m"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "Which type of fluid flow is smooth, and predictable?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Turbulent",                  ///// Write the option 1 inside double quotes
+        b: "Viscous",                  ///// Write the option 2 inside double quotes
+        c: "Laminar",                  ///// Write the option 3 inside double quotes
+        d: "Inertial"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+    
+     {
+      question: "What value of Reynolds number indicates laminar flow?",
+      answers: {
+        a: "2000",
+        b: "5000",
+        c: "7000",
+        d: "10000"
+      },
+      correctAnswer: "a"
+    },
+    
+     
+    ///// this line
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
