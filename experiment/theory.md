@@ -34,3 +34,6 @@ Sr.No. | Reynolds Number | Flow Pattern
 •	A measuring tank<br>
 •	Regulating valve at the outlet of glass tube and at inlet of dye injector<br>
 •	A stopwatch<br>
+
+<h5>Experimental Set-up</h5>
+<img src="images/reynolds-apparatus.jpg" />
