@@ -17,7 +17,7 @@ Reynolds experiment description: this experiment is designed to explain the conc
 
 <h5> Target Audience : </h5>
 
-UG AND PG students of chemical engineering
+UG and PG students of chemical engineering
 
 <h5> Course Alignment : </h5>
 
