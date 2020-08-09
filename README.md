@@ -26,9 +26,32 @@ Chemical Engineering Fluid Mechanics Lab (KCH-351)
 <h5> Universities Mapped : </h5>
 
 Dr. A.P.J. Abdul Kalam Technical University (AKTU)<br>
+Guru Gobind Singh Indraprastha University (GGSIPU) <br>
+ Galgotias University <br>
+ Nirma University <br>
+ RGIPT, Raebareli <br>
+ HBTU, Kanpur <br>
+ AMU, Aligarh <br>
+ UPES, Dehradun <br>
+ AMITY University <br>
+ GD Goenka University <br>
+ PARUL University <br>
+ ICET Mumbai <br>
+ Mumbai University <br>
+ CCS University <br>
+ IIT DELHI <br>
+ IIT ROORKEE <br>
+ IIT KANPUR <br>
+ IIT KHARAGPUR <br>
+ IIT GANDHINAGAR <br>
+ IIT ROPAR <br>
+ IIT BHU <br>
+ IIT GUWAHATI <br>
+ IIT BOMBAY <br>
+ IIT MADRAS <br>
 
 
-<b>Name of Developer | <b> Neha Sharma
+<b>Name of Developer | <b> Dr. Neha Sharma
 :--|:--|
 <b> Institute | <b> Meerut Institute of Engineering and Technology
 <b> Email id|     <b> neha.sharma.ch@miet.ac.in
@@ -36,16 +59,16 @@ Dr. A.P.J. Abdul Kalam Technical University (AKTU)<br>
 
 #### Mentor Details
 
-<b>Mentored by | <b> Senthil Subramanian
+<b>Mentored by | <b> Mr. Senthil Subramanian
 :--|:--|
-<b> Institute | <b> Sharda group of institutions
+<b> Institute | <b> Sharda Group of Institutions
 <b> Email id|     <b> tss.senthil.hcst@sgei.org
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Neha Sharma | Faculty | Chemical Engineering | Meerut Institute of Engineering and Technology, Meerut | neha.sharma.ch@miet.ac.in
+1 | Dr. Neha Sharma | Faculty | Chemical Engineering | Meerut Institute of Engineering and Technology, Meerut | neha.sharma.ch@miet.ac.in
 2 | Hritik Singhal | Student | Chemical Engineering | Meerut Institute of Engineering and Technology, Meerut |hritik.singhal.ch.2017@miet.ac.in
 3 | Manan Gupta | Student | Computer Science and Engineering | Meerut Institute of Engineering and Technology, Meerut |manan.gupta.cs.2018@miet.ac.in
 4 | Hardik Sharma | Student | Computer Science and Engineering | Meerut Institute of Engineering and Technology, Meerut |hardik.sharma.cs.2018@miet.ac.in
