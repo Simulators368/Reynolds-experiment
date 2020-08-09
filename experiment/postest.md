@@ -1,32 +1,36 @@
 ## Post test
 <br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
+Q 1. Velocity within the given fields would be similar in magnitude, direction and turbulence pattern when (LO1, LO2 and LO3)<br>
+a)	Nusselt number are different<br>
+b)	Nusselt number are same<br>
+c)	Reynolds number are different<br>
+d)	<b>Reynolds number are same</b><br>
+<br><br>
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
-d. No change in pattern is visible<br>
+Q 2. A pipe has a diameter of 0.2 m in which a fluid flows with a velocity of 0.3 m3/s. Determine whether the flow is laminar or turbulent calculating the Reynolds number. Assume kinematic viscosity = 0.5 × 10-4 m2 /s. (LO1, LO2 and LO3) <br>
+a)	<b>the flow is laminar having Reynolds number 1200</b><br>
+b)	the flow is turbulent having Reynolds number 2100<br>
+c)	the flow is laminar having Reynolds number 2200<br>
+d)	the flow is neither laminar nor turbulent<br>
+<br><br>
 
-Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
-<b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
-b. triangular interference pattern<br>
-c. colored fringes will be observed<br>
-d. No change in pattern is visible<br>
+Q 3. What is the appropriate definition of streamflow? (LO3)<br>
+a)	The way in which water moves within a stream channel<br>
+b)	The direction of the flow of the water within a stream<br>
+c)	<b>The velocity of the water within a stream </b> <br>
+d)	The amount of water within a stream<br>
+<br><br>
 
-Q 4. Colours observed in thin film are because of ________________<br>
-a. Diffraction<br>
-<b>b. Interference<br></b>
-c. Polarization<br>
-d. None of the options<br>
+Q 4. Which of the following is NOT a characteristic of a stream with laminar streamflow? (LO3)<br>
+a)	Quiet<br>
+b)	<b>Water that moves quickly </b><br>
+c)	Water that flows in a straight line<br>
+d)	No visible physical barriers<br>
+<br><br>
 
-Q 5.  In Newton’s rings experiment, rings are formed when the light is ________________ by
-lower surface of the lens and upper surface of the glass plate, interfere.<br>
-a. Reflected<br>
-<b>b. Refracted<br></b>
-c. Transmitted<br>
-d. None<br></b>
+Q 5. The turbulent flow has (LO3)<br>
+a)	streakline motion<br>
+b)	parabolic velocity distribution<br>
+c)	<b>random orientation of fluid particles </b<br>
+d)	small slope of velocity profile at the wall<br>
+
