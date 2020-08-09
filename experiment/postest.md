@@ -7,7 +7,7 @@ c)	Reynolds number are different<br>
 d)	<b>Reynolds number are same</b><br>
 <br><br>
 
-Q 2. A pipe has a diameter of 0.2 m in which a fluid flows with a velocity of 0.3 m3/s. Determine whether the flow is laminar or turbulent calculating the Reynolds number. Assume kinematic viscosity = 0.5 × 10-4 m2 /s. (LO1, LO2 and LO3) <br>
+Q 2. A pipe has a diameter of 0.2 m in which a fluid flows with a velocity of 0.3 m<sup>3</sup>/s. Determine whether the flow is laminar or turbulent calculating the Reynolds number. Assume kinematic viscosity = 0.5 × 10-4 m<sup>2</sup> /s. (LO1, LO2 and LO3) <br>
 a)	<b>the flow is laminar having Reynolds number 1200</b><br>
 b)	the flow is turbulent having Reynolds number 2100<br>
 c)	the flow is laminar having Reynolds number 2200<br>
