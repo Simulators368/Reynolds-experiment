@@ -238,6 +238,54 @@
         background-image: url("images/laminar.svg");
         background-size: 100%;
       }
+      #r2{
+        visibility: hidden;
+      }
+      #r3{
+        visibility: hidden;
+      }
+
+      
+      #table {
+        margin-top: 2rem;
+        margin-bottom: 3rem;
+      }
+      table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      td,
+      th {
+        border: 1px solid #0a0a0a;
+        text-align: center;
+        padding: 8px;
+      }
+
+      tr:nth-child(even) {
+        background-color: #c6fff3;
+      }
+      #table h2 {
+        text-align: center;
+        color: #0a0a0a;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .tab-button {
+        margin-top: 2rem;
+        background-color: cadetblue;
+        border: none;
+        color: darkmagenta;
+        width: 8rem;
+        height: 3rem;
+        border: 1px solid black;
+      }
+      .tab-button:hover {
+        background: cornflowerblue;
+        color: black;
+        transition: all 0.3s ease;
+        cursor: pointer;
+      }
     </style>
   </head>
   <body>
@@ -277,7 +325,62 @@
     <label id="gatelab">turn the gate valve off</label>
     <label id="outlab"
       >turn the outlet valve multiple times to set the flow rate</label
-    >
+    ></body><br><br>
+    
+<center>    <h2>DATASHEET</h2></center>
+
+    <h4>Area of collecting tank: 100cm<sup>2</sup></h4>
+    <h4>Time of collecting water in tank: 50s</h4>
+    <br />
+
+    <center>
+    <label id="verify" style=" font-size: 24px"></label>
+    </center>
+    <table id="table">
+      <tr>
+        <th>SNo.</th>
+        <th>(H<sub>1</sub>-H<sub>2)</sub>(cm)</th>
+        <th>Volume in t seconds (H<sub>1</sub>-H<sub>2</sub>)x A</th>
+        <th>Discharge (Q = V/time) (cm3/sec)</th>
+        <th>Velocity, v = Q/a(cm/sec)</th>
+        <th>Reynolds Number, Re = v x(1.006x10-2) </th>
+        <th>Observed Flow type</th>
+      </tr>
+
+      <tr>
+            <td id="r1c1">1</td>
+            <td id="r1c2"><input ></input></td>
+            <td id="r1c3"><input ></input></td>
+            <td id="r1c4"><input ></input></td>
+            <td id="r1c5"><input ></input></td>
+            <td id="r1c6"><input id="in1" type="number"></input></td>
+            <td id="r1c7"><input ></input></td>
+            <td id="r1c8"><button  onclick="check1()">check calculations</button></td>
+        </tr>
+        
+        <tr id="r2">
+            <td id="r2c1">2</td>
+            <td id="r2c2"><input ></input></td>
+            <td id="r2c3"><input ></input></td>
+            <td id="r2c4"><input ></input></td>
+            <td id="r2c5"><input ></input></td>
+            <td id="r2c6"><input id="in2"></input></td>
+            <td id="r2c7"><input ></input></td>
+            <td><button  onclick="check2()">check calculations</button></td>
+        </tr>
+        <tr id="r3">
+            <td id="r3c1">3</td>
+            <td id="r3c2"><input ></input></td>
+            <td id="r3c3"><input ></input></td>
+            <td id="r3c4"><input ></input></td>
+            <td id="r3c5"><input ></input></td>
+            <td id="r3c6"><input id="in3"></input></td>
+            <td id="r3c7"><input ></input></td>
+            <td><button  onclick="check3()">check calculations</button></td>,
+        </tr>
+    </table>
+    
+
     <script src="js/exp2.js"></script>
   </body>
 </html>

@@ -68,8 +68,10 @@ function clickedValve() {
 
 var gate = 1;
 var inter;
+var timeo;
 function clickedgate() {
   if (init === 0) {
+    clearTimeout(timeo);
     var h = document.getElementById("fillfinal");
     document.getElementById("gatelab").style.opacity = 0;
     if (gate == 1) {
@@ -82,9 +84,9 @@ function clickedgate() {
 
       document.getElementById("labFlow").innerText = "";
 
-      setTimeout(function () {
+      timeo = setTimeout(function () {
         document.getElementById("labFlow").innerText =
-          "     " + (5 * 7.8971 * flow) / 10000;
+          "" + (5 * 7.8971 * flow) / 10000;
       }, 50000);
 
       i = 50;
@@ -114,4 +116,28 @@ function clickedgate() {
       clearInterval(inter);
     }
   }
+}
+
+function check1() {
+  var el = document.getElementById("in1");
+  if (flow == el.value) {
+    document.getElementById("r2").style.visibility = "visible";
+    el.style.background = "white";
+  } else el.style.background = "red";
+}
+function check2() {
+  var el = document.getElementById("in2");
+  if (flow == el.value) {
+    document.getElementById("r3").style.visibility = "visible";
+    el.style.background = "white";
+  } else el.style.background = "red";
+}
+function check3() {
+  var el = document.getElementById("in3");
+  if (flow == el.value) {
+    // document.getElementById("r2").style.visibility = "visible";
+    document.getElementById("verify").innerText =
+      "Experiment Completed Successfully";
+    el.style.background = "white";
+  } else el.style.background = "red";
 }
