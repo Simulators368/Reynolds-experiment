@@ -1,4 +1,4 @@
-## <b> Pre-test
+## <b> Pre-test </b>
 #### Please attempt the following questions
 
 1) What are the unit(s) of the Reynolds number? (LO1)<br>
