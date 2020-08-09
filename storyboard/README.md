@@ -87,9 +87,9 @@ link to flow chart Here : https://github.com/Simulators368/Reynolds-experiment/b
 
 ### 5. Storyboard :
 Storyboard:
-<img src="images/Reyn-1"/><br><br><br><br>
-<img src="images/Reyn-2"/><br><br><br><br>
-<img src="images/Reyn-3"/><br><br><br><br>
-<img src="images/Reyn-4"/><br><br><br><br>
-<img src="images/Reyn-6"/><br><br><br><br>
+<img src="images/Reyn-1.png"/><br><br><br><br>
+<img src="images/Reyn-2.png"/><br><br><br><br>
+<img src="images/Reyn-3.png"/><br><br><br><br>
+<img src="images/Reyn-4.png"/><br><br><br><br>
+<img src="images/Reyn-6.png"/><br><br><br><br>
 Link to storybaord (.gif file ) here :https://github.com/Simulators368/Reynolds-experiment/tree/master/storyboard/storyboard
