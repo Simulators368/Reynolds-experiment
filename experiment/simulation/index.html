@@ -71,13 +71,22 @@
       label {
         position: absolute;
       }
+      #clock {
+        top: 50px;
+        left: 700px;
+        height: 100px;
+        width: 100px;
+        position: absolute;
+        background-image: url("images/watch.svg");
+        background-size: 100%;
+      }
       #labFlow {
         top: 290px;
-        left: 710px;
+        left: 750px;
       }
       #timer {
-        top: 50px;
-        left: 720px;
+        top: 40px;
+        left: 40px;
         font-size: 28px;
       }
       .horz-water {
@@ -234,7 +243,9 @@
   <body>
     <div id="struct"></div>
 
-    <label id="timer"></label>
+    <div id="clock">
+      <label id="timer"></label>
+    </div>
     <label id="labFlow"></label>
 
     <div id="mot1" class="horz-water"></div>
