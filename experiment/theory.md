@@ -12,6 +12,14 @@ Viscous force, Fv = Shear stress × area<br>
  
 Therefore, Reynolds number is given by:<br>
 <img src="images/reyn-form-3.png" />
+
+<h5>Flow Patterns</h5>
+
+Sr.No. | Reynolds Number | Flow Pattern
+:-- | :-- |:--:
+1.| 0 to 2000| Laminar<br>
+2.| 2000 to 4000| Transient<br>
+3.| Above 4000| Turbulent<br>
  
 Where, v = velocity of fluid flow<br>
 D = diameter of glass tube<br>
