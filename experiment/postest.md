@@ -31,6 +31,6 @@ d)	No visible physical barriers<br>
 Q 5. The turbulent flow has (LO3)<br>
 a)	streakline motion<br>
 b)	parabolic velocity distribution<br>
-c)	<b>random orientation of fluid particles </b<br>
+c)	<b>random orientation of fluid particles </b><br>
 d)	small slope of velocity profile at the wall<br>
 
