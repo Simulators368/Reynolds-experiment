@@ -2,7 +2,7 @@ This folder has
 ### Aim
 Determine the Reynolds number and study different types of flow according to the Reynolds number
 ### Theory
-'Reynolds number' is the ratio of the inertial force of flowing fluid to the viscous force of the fluid. Inertial force of the fluid can be expressed as:<br>
+<h5>Reynolds number</h5> Reynolds number is the ratio of the inertial force of flowing fluid to the viscous force of the fluid. Inertial force of the fluid can be expressed as:<br>
 
  Inertial force, Fi = mass × acceleration<br>
                                 = (density × volume) × (Velocity / time)<br>
@@ -20,6 +20,13 @@ D = diameter of glass tube<br>
 ρ = Density of fluid<br>
 µ = Dynamic viscosity of fluid<br>
 γ = Kinematic viscosity of fluid<br>
+<h5>Flow Patterns</h5>
+
+Sr.No. | Reynolds Number | Flow Pattern
+:-- | :-- |:--:
+1.| 0 to 2000| Laminar<br>
+2.| 2000 to 4000| Transient<br>
+3.| Above 4000| Turbulent<br>
 
 <h5>Apparatus Required:</h5>
 •	A Tank filled with water<br>
