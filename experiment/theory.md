@@ -1,20 +1,20 @@
 ### Theory
 
 'Reynolds number' is the ratio of the inertial force of flowing fluid to the viscous force of the fluid. Inertial force of the fluid can be expressed as:<br>
-Inertial force, Fi = mass × acceleration
-                                = (density × volume) × (Velocity / time)
-       = (density × Area) × (Velocity × Velocity)
+Inertial force, Fi = mass × acceleration<br>
+                                = (density × volume) × (Velocity / time)<br>
+       = (density × Area) × (Velocity × Velocity)<br>
  
 Viscous force, Fv = Shear stress × area
  
 Therefore, Reynolds number is given by:
 
  
-Where, v = velocity of fluid flow
-D = diameter of glass tube
-ρ = Density of fluid
-µ = Dynamic viscosity of fluid
-γ = Kinematic viscosity of fluid
+Where, v = velocity of fluid flow<br>
+D = diameter of glass tube<br>
+ρ = Density of fluid<br>
+µ = Dynamic viscosity of fluid<br>
+γ = Kinematic viscosity of fluid<br>
 
 Apparatus Required:<br>
 •	A Tank filled with water<br>
