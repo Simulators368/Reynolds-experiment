@@ -141,8 +141,33 @@ function check3() {
   if (flow == el.value) {
     // document.getElementById("r2").style.visibility = "visible";
     document.getElementById("verify").innerText =
-      "Experiment Completed Successfully";
+      
     el.style.background = "white";
   } else {el.style.background = "red";
          el.style.value = "wrong answer";}
+}
+function check4() {
+  var el = document.getElementById("in4");
+  if (flow == el.value) {
+    document.getElementById("r5").style.visibility = "visible";
+    
+    el.style.background = "white";
+  } else el.style.background = "red";
+}
+function check5() {
+  var el = document.getElementById("in5");
+  if (flow == el.value) {
+    document.getElementById("r6").style.visibility = "visible";
+    
+    el.style.background = "white";
+  } else el.style.background = "red";
+}
+function check6() {
+  var el = document.getElementById("in6");
+  if (flow == el.value) {
+    //document.getElementById("r2").style.visibility = "visible";
+    document.getElementById("verify").innerText =
+      "Experiment Completed Successfully";
+    el.style.background = "white";
+  } else el.style.background = "red";
 }
