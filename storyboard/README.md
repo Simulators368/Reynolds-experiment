@@ -86,10 +86,23 @@ link to flow chart Here : https://github.com/Simulators368/Reynolds-experiment/b
  
 
 ### 5. Storyboard :
-Storyboard:
+Step1: First we connected a water reservoir for circulation of water.<br>
+
 <img src="images/Reyn-1.png"/><br><br><br><br>
+
+Step2: Then pump was attached with reservoir for pumping water to the tank.<br> 
+
 <img src="images/Reyn-2.png"/><br><br><br><br>
+
+Step3: After that by the help of pipes pump was attached with Water tank placed on stand.<br>
+
 <img src="images/Reyn-3.png"/><br><br><br><br>
+
+Step4: Further, glass tube was attached with tank in which flow of dye will be observed.<br>
+
 <img src="images/Reyn-4.png"/><br><br><br><br>
+
+Step5: Now, a collecting tank with gate valve was attached in system for measuring flow rate and also a stopwatch was added. Now experimental set up looks like below image.<br>
+
 <img src="images/Reyn-6.png"/><br><br><br><br>
 Link to storybaord (.gif file ) here :https://github.com/Simulators368/Reynolds-experiment/tree/master/storyboard/storyboard
