@@ -125,7 +125,7 @@ function check1() {
     
     el.style.background = "white";
   } else {el.style.background = "red";
-         document.getElementById("r2").style.value = "wrong answer";}
+         el.style.value = "wrong answer";}
 }
 function check2() {
   var el = document.getElementById("in2");
@@ -134,7 +134,7 @@ function check2() {
     
     el.style.background = "white";
   } else {el.style.background = "red";
-         document.getElementById("r2").style.value = "wrong answer";}
+         el.style.value = "wrong answer";}
 }
 function check3() {
   var el = document.getElementById("in3");
@@ -144,5 +144,5 @@ function check3() {
       "Experiment Completed Successfully";
     el.style.background = "white";
   } else {el.style.background = "red";
-         document.getElementById("r2").style.value = "wrong answer";}
+         el.style.value = "wrong answer";}
 }
