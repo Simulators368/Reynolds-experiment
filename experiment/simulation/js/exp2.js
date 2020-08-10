@@ -122,15 +122,19 @@ function check1() {
   var el = document.getElementById("in1");
   if (flow == el.value) {
     document.getElementById("r2").style.visibility = "visible";
+    
     el.style.background = "white";
-  } else el.style.background = "red";
+  } else {el.style.background = "red";
+         document.getElementById("r2").style.value = "wrong answer";}
 }
 function check2() {
   var el = document.getElementById("in2");
   if (flow == el.value) {
     document.getElementById("r3").style.visibility = "visible";
+    
     el.style.background = "white";
-  } else el.style.background = "red";
+  } else {el.style.background = "red";
+         document.getElementById("r2").style.value = "wrong answer";}
 }
 function check3() {
   var el = document.getElementById("in3");
@@ -139,5 +143,6 @@ function check3() {
     document.getElementById("verify").innerText =
       "Experiment Completed Successfully";
     el.style.background = "white";
-  } else el.style.background = "red";
+  } else {el.style.background = "red";
+         document.getElementById("r2").style.value = "wrong answer";}
 }
