@@ -139,8 +139,8 @@ function check2() {
 function check3() {
   var el = document.getElementById("in3");
   if (flow == el.value) {
-    // document.getElementById("r2").style.visibility = "visible";
-    document.getElementById("verify").innerText =
+     document.getElementById("r4").style.visibility = "visible";
+
       
     el.style.background = "white";
   } else {el.style.background = "red";
