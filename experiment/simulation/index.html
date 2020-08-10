@@ -84,6 +84,9 @@
         top: 290px;
         left: 750px;
       }
+      .container{
+        position:absolute;
+      }
       #timer {
         top: 40px;
         left: 40px;
@@ -286,9 +289,17 @@
         transition: all 0.3s ease;
         cursor: pointer;
       }
+      #exp{
+        left:350;
+        position: absolute;
+      }
     </style>
   </head>
   <body>
+  
+      <font color="red"><h2 id="exp">Reynold's Experiment</h2></font>
+      
+      <div id="container">
     <div id="struct"></div>
 
     <div id="clock">
@@ -312,7 +323,7 @@
     <div id="mot13" class="horz-water"></div>
     <div id="mot14" class="horz-water"></div>
     <div id="mot15" class="horz-water"></div>
-
+      
     <div id="lin" class="dtube"></div>
     <div id="fillfinal" style="top: 425px; left: 775px;" class="fillsfin"></div>
 
@@ -325,12 +336,15 @@
     <label id="gatelab">turn the gate valve off</label>
     <label id="outlab"
       >turn the outlet valve multiple times to set the flow rate</label
-    ></body><br><br>
+    ><br><br> 
+  </div>
     
 <center>    <h2>DATASHEET</h2></center>
 
-    <h4>Area of collecting tank: 100cm<sup>2</sup></h4>
-    <h4>Time of collecting water in tank: 50s</h4>
+    <h4>Area of collecting tank, A: 100cm<sup>2</sup></h4>
+    <h4>Cross sectional area of glass tube, a: 0.7854cm<sup>2</sup></h4>
+    <h4>Time of collecting water in tank, t : 50s</h4>
+    
     <br />
 
     <center>
@@ -379,7 +393,7 @@
             <td><button  onclick="check3()">check calculations</button></td>,
         </tr>
     </table>
-    
+  
 
     <script src="js/exp2.js"></script>
   </body>
