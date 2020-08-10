@@ -54,7 +54,7 @@ d)	No visible physical barriers. <br>
 
 
 ##### 2.5 Allow pitfalls:
-1) If user doen't open dye valve and allow only water to flow then doesn't able to visualise any flow pattern. 
+1) If user doesn't open dye valve and allow only water to flow then doesn't able to visualise any flow pattern. 
 2) If user doesn't open gate valve after taking reading for calculating flow rate then the collection tank will overflow.
 
 ##### 2.6 Conclusion:
