@@ -86,7 +86,7 @@ function clickedgate() {
 
       timeo = setTimeout(function () {
         document.getElementById("labFlow").innerText =
-          "" + (5 * 7.8971 * flow) / 10000;
+          "h2-h1" + (5 * 7.8971 * flow) / 10000;
       }, 50000);
 
       i = 50;
