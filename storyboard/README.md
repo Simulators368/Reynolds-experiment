@@ -94,7 +94,7 @@ Step2: Then pump was attached with reservoir for pumping water to the tank.<br>
 
 <img src="images/Reyn-2.png"/><br><br><br><br>
 
-Step3: After that by the help of pipes pump was attached with Water tank placed on stand.<br>
+Step3: After that by the help of pipes pump was attached with Water tank placed on stand. A small tank having dye was placed above water tank.<br>
 
 <img src="images/Reyn-3.png"/><br><br><br><br>
 
