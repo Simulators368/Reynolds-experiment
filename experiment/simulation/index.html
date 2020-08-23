@@ -49,24 +49,28 @@
         opacity: 0;
         top: 80;
         left: 130;
-        background-color: darkgrey;
+        background-color: rgb(230, 230, 62);
+        border: 1px black solid;
       }
       #outlab {
         opacity: 0;
         top: 160;
         left: 570;
-        background-color: darkgrey;
+        background-color: rgb(230, 230, 62);
+        border: 1px black solid;
       }
       #motlab {
         top: 480;
         left: 150;
-        background-color: darkgrey;
+        background-color: rgb(230, 230, 62);
+        border: 1px black solid;
       }
       #gatelab {
         opacity: 0;
         top: 370;
         left: 550;
-        background-color: darkgrey;
+        background-color: rgb(230, 230, 62);
+        border: 1px black solid;
       }
       label {
         position: absolute;
@@ -83,6 +87,8 @@
       #labFlow {
         top: 290px;
         left: 750px;
+         background-color: rgb(230, 230, 62);
+        border: 1px black solid;
       }
       .container{
         position:absolute;
@@ -306,7 +312,7 @@
   </head>
   <body>
   
-      <font color="red"><h2 id="exp">Reynold's Experiment</h2></font>
+      <!--font color="red"><h2 id="exp">Reynold's Experiment</h2></font-->
       
       <div id="container">
     <div id="struct"></div>
@@ -344,20 +350,22 @@
     <label id="inlab">turn the valve for dye</label>
     <label id="gatelab">turn the gate valve off</label>
     <label id="outlab"
-      >turn the outlet valve multiple times to set the flow rate</label
+      >turn the outlet valve to set the flow rate</label
     ><br><br> 
   </div>
     
 <center>    <h2>DATASHEET</h2></center>
 
-    <h4>Area of collecting tank, A: 100cm<sup>2</sup></h4>
-    <h4>Cross sectional area of glass tube, a: 0.7854cm<sup>2</sup></h4>
-    <h4>Time of collecting water in tank, t : 50s</h4>
+    <h4>Area of collecting tank, A: 100 cm<sup>2</sup></h4>
+    <h4>Cross sectional area of glass tube, a: 0.7854 cm<sup>2</sup></h4>
+    <h4>Time of collecting water in tank, t : 50 s</h4>
+    <h4>Kinematic Viscosity, γ : 1.006 x 10<sup>-2</sup> cm<sup>2</sup>/sec</h4>
+    <h4>Diameter of glass tube D: 1 cm</h4>
     
     <br />
     <ul>
       <li><h4>Fill the observation table shown below:-</h4></li>
-      <li><h4>put the value of H2 - H1 from above shown readings</h4></li>
+      <li><h4>put the value of H from above shown readings</h4></li>
     </ul>
     <center>
     <label id="verify" style=" font-size: 24px"></label>
@@ -365,11 +373,11 @@
     <table id="table">
       <tr>
         <th>SNo.</th>
-        <th>(H<sub>2</sub>-H<sub>1</sub>)(cm)</th>
-        <th>Volume in t seconds (H<sub>2</sub>-H<sub>1</sub>)x A</th>
+        <th>(H) cm</th>
+        <th>Volume in t seconds <br>H x A</th>
         <th>Discharge (Q = V/time) (cm3/sec)</th>
         <th>Velocity, v = Q/a(cm/sec)</th>
-        <th>Reynolds Number, Re = v/(1.006x10-2) </th>
+        <th>Reynolds Number, Re = v.D/γ </th>
         <th>Observed Flow type</th>
       </tr>
 

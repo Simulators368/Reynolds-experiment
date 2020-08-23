@@ -85,8 +85,10 @@ function clickedgate() {
       document.getElementById("labFlow").innerText = "";
 
       timeo = setTimeout(function () {
-        document.getElementById("labFlow").innerText =
-          "h2-h1" + (5 * 7.8971 * flow) / 10000;
+        document.getElementById("labFlow").innerText = (
+          "H=" +
+          (5 * 7.8971 * flow) / 10000
+        ).substring(0, 7);
       }, 50000);
 
       i = 50;
@@ -120,51 +122,56 @@ function clickedgate() {
 
 function check1() {
   var el = document.getElementById("in1");
-  if (flow == el.value) {
+  if (flow + 1 >= el.value && flow - 1 <= el.value) {
     document.getElementById("r2").style.visibility = "visible";
-    
+
     el.style.background = "white";
-  } else {el.style.background = "red";
-         el.style.value = "wrong answer";}
+  } else {
+    el.style.background = "red";
+    el.style.value = "wrong answer";
+  }
 }
 function check2() {
   var el = document.getElementById("in2");
-  if (flow == el.value) {
+  if (flow + 1 >= el.value && flow - 1 <= el.value) {
     document.getElementById("r3").style.visibility = "visible";
-    
+
     el.style.background = "white";
-  } else {el.style.background = "red";
-         el.style.value = "wrong answer";}
+  } else {
+    el.style.background = "red";
+    el.style.value = "wrong answer";
+  }
 }
 function check3() {
   var el = document.getElementById("in3");
-  if (flow == el.value) {
-     document.getElementById("r4").style.visibility = "visible";
+  if (flow + 1 >= el.value && flow - 1 <= el.value) {
+    document.getElementById("r4").style.visibility = "visible";
 
-      
     el.style.background = "white";
-  } else {el.style.background = "red";
-         el.style.value = "wrong answer";}
+  } else {
+    el.style.background = "red";
+    el.style.value = "wrong answer";
+  }
 }
 function check4() {
   var el = document.getElementById("in4");
-  if (flow == el.value) {
+  if (flow + 1 >= el.value && flow - 1 <= el.value) {
     document.getElementById("r5").style.visibility = "visible";
-    
+
     el.style.background = "white";
   } else el.style.background = "red";
 }
 function check5() {
   var el = document.getElementById("in5");
-  if (flow == el.value) {
+  if (flow + 1 >= el.value && flow - 1 <= el.value) {
     document.getElementById("r6").style.visibility = "visible";
-    
+
     el.style.background = "white";
   } else el.style.background = "red";
 }
 function check6() {
   var el = document.getElementById("in6");
-  if (flow == el.value) {
+  if (flow + 1 >= el.value && flow - 1 <= el.value) {
     //document.getElementById("r2").style.visibility = "visible";
     document.getElementById("verify").innerText =
       "Experiment Completed Successfully";
