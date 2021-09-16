@@ -100,11 +100,11 @@ c)	the flow is laminar having Reynolds number 2200<br>
 d)	the flow is neither laminar nor turbulent<br>
 <br><br>
 
-Q 3. What is the appropriate definition of streamflow? (LO3)<br>
-a)	The way in which water moves within a stream channel<br>
-b)	The direction of the flow of the water within a stream<br>
-c)	<b>The velocity of the water within a stream </b> <br>
-d)	The amount of water within a stream<br>
+Q 3. Reynold's number is directly proportional to? (LO3)<br>
+a)	Pipe Diameter<br>
+b)	Average flow velocity<br>
+c)	<b>Both A and B </b> <br>
+d)	neither A and B<br>
 <br><br>
 
 Q 4. Which of the following is NOT a characteristic of a stream with laminar streamflow? (LO3)<br>
