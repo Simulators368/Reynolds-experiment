@@ -102,7 +102,7 @@ d)	the flow is neither laminar nor turbulent<br>
 
 Q 3. Reynold's number is directly proportional to? (LO3)<br>
 a)	Pipe Diameter<br>
-b)	Average flow velocity<br>
+b)	Flow velocity<br>
 c)	<b>Both A and B </b> <br>
 d)	neither A and B<br>
 <br><br>
